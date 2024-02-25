@@ -1,0 +1,4 @@
+asyncio
+sqlalchemy
+pyrogram
+TgCrypto
